@@ -1,1 +1,2 @@
-# Allan, an ML algorithm to detect system errors and group them
+# Allan
+    A demo on ML algorithm to detect system errors and group them
